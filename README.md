@@ -1,2 +1,2 @@
 # uebung2
-beliebiger Text amq
+readme-update
